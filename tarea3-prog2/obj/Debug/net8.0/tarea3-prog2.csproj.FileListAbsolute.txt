@@ -1,0 +1,14 @@
+/home/d1nos4ur/RiderProjects/tarea3-prog2/tarea3-prog2/bin/Debug/net8.0/tarea3-prog2
+/home/d1nos4ur/RiderProjects/tarea3-prog2/tarea3-prog2/bin/Debug/net8.0/tarea3-prog2.deps.json
+/home/d1nos4ur/RiderProjects/tarea3-prog2/tarea3-prog2/bin/Debug/net8.0/tarea3-prog2.runtimeconfig.json
+/home/d1nos4ur/RiderProjects/tarea3-prog2/tarea3-prog2/bin/Debug/net8.0/tarea3-prog2.dll
+/home/d1nos4ur/RiderProjects/tarea3-prog2/tarea3-prog2/bin/Debug/net8.0/tarea3-prog2.pdb
+/home/d1nos4ur/RiderProjects/tarea3-prog2/tarea3-prog2/obj/Debug/net8.0/tarea3-prog2.GeneratedMSBuildEditorConfig.editorconfig
+/home/d1nos4ur/RiderProjects/tarea3-prog2/tarea3-prog2/obj/Debug/net8.0/tarea3-prog2.AssemblyInfoInputs.cache
+/home/d1nos4ur/RiderProjects/tarea3-prog2/tarea3-prog2/obj/Debug/net8.0/tarea3-prog2.AssemblyInfo.cs
+/home/d1nos4ur/RiderProjects/tarea3-prog2/tarea3-prog2/obj/Debug/net8.0/tarea3-prog2.csproj.CoreCompileInputs.cache
+/home/d1nos4ur/RiderProjects/tarea3-prog2/tarea3-prog2/obj/Debug/net8.0/tarea3-prog2.dll
+/home/d1nos4ur/RiderProjects/tarea3-prog2/tarea3-prog2/obj/Debug/net8.0/refint/tarea3-prog2.dll
+/home/d1nos4ur/RiderProjects/tarea3-prog2/tarea3-prog2/obj/Debug/net8.0/tarea3-prog2.pdb
+/home/d1nos4ur/RiderProjects/tarea3-prog2/tarea3-prog2/obj/Debug/net8.0/tarea3-prog2.genruntimeconfig.cache
+/home/d1nos4ur/RiderProjects/tarea3-prog2/tarea3-prog2/obj/Debug/net8.0/ref/tarea3-prog2.dll
